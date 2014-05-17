@@ -1,8 +1,8 @@
 name              "chef-client"
-maintainer        "Opscode, Inc."
-maintainer_email  "cookbooks@opscode.com"
+maintainer        "Reigner S. Yrastorza"
+maintainer_email  "reigner@yrastorza.us"
 license           "Apache 2.0"
-description       "Manages aspects of only chef-client"
+description       "Forked version of GetChef chef-client cookbook"
 long_description  IO.read(File.join(File.dirname(__FILE__), 'README.md'))
 version           "2.2.3"
 recipe            "chef-client", "Includes the service recipe by default."
