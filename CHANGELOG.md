@@ -1,4 +1,5 @@
 ## v2.2.3:
+* This is not an official GetChef (Opscode) v2.2.3
 * Updated the chef-client init for rhel to actually kill all chef process
 * Updated /var/log/chef to be accessible by icinga, so it can monitor stuff inside it
 
