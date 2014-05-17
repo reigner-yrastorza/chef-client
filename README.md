@@ -1,7 +1,7 @@
 Description
 ===========
 
-This cookbook is used to configure a system as a Chef Client.
+This is a modified version of opscode chef-client v2.2.2 for personal use. See changelog for my changes.
 
 Requirements
 ============
