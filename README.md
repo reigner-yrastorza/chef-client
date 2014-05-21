@@ -1,8 +1,9 @@
 Description
 ===========
 
-This is a modified version of opscode chef-client v2.2.2. See changelog for my changes.
-Please use the official opscode (getchef) chef-client cookbook, since my changes are meant for my environment.
+This is a modified version of opscode chef-client v2.2.2. 
+See changelog for my changes.
+
 
 Requirements
 ============
